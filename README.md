@@ -1,5 +1,7 @@
 # Nanite Mesh Splitter
 
+https://www.fab.com/listings/f1d5a808-11e1-46d7-9c7f-f348e19b4234
+
 An Unreal Engine editor plugin that splits a static mesh by material. The opaque sections stay on the original
 mesh, which gets Nanite turned on. Masked, translucent and decal sections move to a second mesh next to it, with
 Nanite off.
